@@ -1,0 +1,28 @@
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\bin\Debug\Dorm and Meal calculator.exe.config
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\bin\Debug\Dorm and Meal calculator.exe
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\bin\Debug\Dorm and Meal calculator.pdb
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\App.g.cs
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator_MarkupCompile.cache
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator_MarkupCompile.lref
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\MainWindow.baml
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.g.resources
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm_and_Meal_calculator.Properties.Resources.resources
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.csproj.GenerateResource.Cache
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.exe
+G:\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\bin\Debug\Dorm and Meal calculator.exe.config
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\bin\Debug\Dorm and Meal calculator.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\bin\Debug\Dorm and Meal calculator.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.csprojResolveAssemblyReference.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\MainWindow.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\App.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator_MarkupCompile.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator_MarkupCompile.lref
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\MainWindow.baml
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.g.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm_and_Meal_calculator.Properties.Resources.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Dorm and Meal calculator\Dorm and Meal calculator\obj\Debug\Dorm and Meal calculator.csproj.GenerateResource.Cache
